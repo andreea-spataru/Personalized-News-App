@@ -29,3 +29,5 @@ Aplicație Android dezvoltată în Kotlin, folosind Jetpack Compose, care oferă
  
     ![image](https://github.com/user-attachments/assets/2bb6b31c-33d7-431a-ab11-3aab5b531d76)
 ![image](https://github.com/user-attachments/assets/b526eb3c-3abe-4a19-87f8-432b849baeb6)
+![image](https://github.com/user-attachments/assets/e7da2521-b097-4881-b8df-e0ec71b13896)
+
